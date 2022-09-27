@@ -3,3 +3,4 @@ Checkout done in my-feature
 Name : Pravir Kadian Frontend
 diverged
 Stash
+Stash 1
