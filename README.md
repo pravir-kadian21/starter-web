@@ -8,3 +8,7 @@ This repository is for showing how Git and GitHub work
 
 Just to know diff
 haha
+
+## Copyright
+
+copyright added
